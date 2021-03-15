@@ -1,6 +1,11 @@
-### Skill.
-Language : C/C++, C#, Javascript, PL/SQL
-Database : MS-SQL, MySQL
+### Language
+* C/C++
+* C# 
+* Javascript
+* PL/SQL
+### Database
+* MS-SQL
+* MySQL
 
 <!--
 **LEE-JE-YEON/LEE-JE-YEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
